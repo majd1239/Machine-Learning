@@ -7,8 +7,8 @@ This repo contains the assignments and projects I completed for the Machine Lear
 
 | Course | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Course 1] | Machine Learning Foundations | Completed
-| [Course 2] | Regression | Completed
-| [Course 3] | Classification | Completed
-| [Course 4] | Clustering and retrieval | In Progress
+| [Course 1] | Machine Learning Foundations - Completed |
+| [Course 2] | Regression - Completed |
+| [Course 3] | Classification - Completed |
+| [Course 4] | Clustering and retrieval -  In Progress|
 
